@@ -1,5 +1,9 @@
 # WordPress: Friendly Captcha support Formidable forms
 
+## Deprecation: Integration in official plugin
+
+This plugin provided the base for the [official plugin]([url](https://github.com/FriendlyCaptcha/friendly-captcha-wordpress/)) and is no longer needed or maintained.
+
 ## Necessary install plugins
 
 Formidable or Pro version
